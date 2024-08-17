@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "image":"emile-guillemot.jpg",
+        "altTxt":" ",
+        "titre":"Hôtel Le soleil du matin",
+        "description":"Nuit à partir de 128",
+        "icon": 5,
+        "Hotel":" "
+    },
+
+    {
+        "id":2,
+        "image":"aw-creative.jpg",
+        "altTxt":" ",
+        "titre":"Chambres d' hotes Au coeur de l'eau",
+        "description":"Nuit à partir de 71",
+        "icon": 5,
+        "Hotel":" " 
+    },
+
+    {
+        "id":3,
+        "image":"febrian-zakaria2.jpg",
+        "altTxt":" ",
+        "titre":"Hôtel Bleu et Blanc",
+        "description":"Nuit à partir de 68",
+        "icon": 5,
+        "Hotel":" "
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "image":"reno-laithienne.jpg",
+        "titre":"Vieux Port"
+    },
+
+    {
+        "id":2,
+        "image":"paul-hermann.jpg",
+        "titre":"Fort de Pomegues"
+    },
+
+    {
+        "id":3,
+        "image":"kilyan-sockalingum.jpg",
+        "titre":"Parcnational des Calanques"
+    },
+
+    {
+        "id":4,
+        "image":"florian-wehde.jpg",
+        "titre":"Notre-Dame-de-la-Garde" 
+    }
+
+]

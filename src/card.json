@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "image":"fred-kleber.jpg",
+        "altTxt":"Image de la chambre d'hôtel montrant deux lits cota à cote",
+        "titre":"Hôtel de Port",
+        "description":"Nuit à partir de 52",
+        "icon": 5,
+        "Hotel":"Printemps"
+    },
+    {
+        "id":2,
+        "image":"febrian-zakaria2.jpg",
+        "altTxt":"Image de la chambre d'hôtel montrant deux lits cota à cote avec table d'étude",
+        "titre":"Hôtel chez Amina",
+        "description":"Nuit à partir de 90",
+        "icon": 5,
+        "Hotel":"Printemps"
+    },
+    {
+        "id":3,
+        "image":"reisetopia.jpg",
+        "altTxt":"Image de la chambre d'hôtel montrant un lit avec un mirroir et un placard",
+        "titre":"Hôtel les mouettes",
+        "description":"Nuit à partir de 76",
+        "icon": 5,
+        "Hotel":"Palace"
+    },
+    {
+        "id":4,
+        "image":"annie-spratt.jpg",
+        "altTxt":"Image de la chambre d'hôtel montrant un lit avec un cadran de la mer bleue juste au dessus",
+        "titre":"Hôtel de la mer",
+        "description":"Nuit à partir de 46",
+        "icon": 5,
+        "Hotel":"Palace"
+    },
+    {
+        "id":5,
+        "image":"marcus-loke.jpg",
+        "altTxt":"Image de la chambre d'hôtel montrant deux lits en fer superposés avec vue extérieur",       
+        "titre":"Auberge de Canebière",
+        "description":"Nuit à partir de 25",
+        "icon": 5,
+        "Hotel":"Auberge de la falaise"
+    },
+    {
+        "id":6,
+        "image":"nicate-lee.jpg",
+        "altTxt":"Image de la chambre d'hôtel montrant deux lits en bois superposé",
+        "titre":"Auberge Le Panier",
+        "description":"Nuit à partir de 23",
+        "icon": 5,
+        "Hotel":"Auberge de la falaise"
+    }
+ 
+]
+
